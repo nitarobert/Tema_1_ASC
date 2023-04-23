@@ -36,4 +36,4 @@ https://www.programcreek.com/python/example/1475/logging.handlers.RotatingFileHa
 
 Git
 
-https://github.com/Raresul/Multi-Producer---Multi-Consumer-Marketplace
+https://github.com/nitarobert/Tema_1_ASC
